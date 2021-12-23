@@ -13,7 +13,7 @@ Bueno, antes de comenzar a desarrollar en Solidity, tendriamos que tener en clar
 
 * https://eth.build/ <- Excelente pagina para poder ir conociendo diferentes conceptos como Smart contracts, Hash, y como se compone una creacion en Ethereum (En Ingles)
 
-* https://intro-ethereum.marto.lol/Intro-a-Ethereum-Development-23aac7d62c3f442c88e97094f0ea34a2 <- Informacion recoletada por Martin gray, excelente para tener en cuenta, de lo mejor en español. 
+* https://intro-ethereum.marto.lol/Intro-a-Ethereum-Development-23aac7d62c3f442c88e97094f0ea34a2 <- Informacion recoletada por Martin Triay, excelente para tener en cuenta, de lo mejor en español. 
 
 * https://preethikasireddy.medium.com/how-does-ethereum-work-anyway-22d1df506369 <- ¿Como funciona Ethereum?
 
