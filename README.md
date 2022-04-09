@@ -39,7 +39,7 @@ https://www.youtube.com/watch?v=PlOZLXGCESo
 > Is Web3 all Hype? Top 10 Web 3.0 Q&A - **ENG** | 9 min.
 https://www.youtube.com/watch?v=wHTcrmhskto&t=440s
 
-### [ Paginas ]
+### [ Paginas ] :newspaper:
 
 > https://ethereum.org/en/developers/docs/web2-vs-web3/ - **ENG**
 
@@ -68,7 +68,7 @@ https://www.youtube.com/watch?v=V9Kr2SujqHw&t=653s
 https://www.youtube.com/watch?v=fRnB5_j1qOE
 
 
-### [ Paginas ]
+### [ Paginas ] :newspaper:
 
 > ¿Que es Blockchain? - **ESP**
 https://www.investopedia.com/terms/b/blockchain.asp
@@ -99,7 +99,7 @@ https://www.youtube.com/watch?v=zoJb3G8TQcE&t=4641s
 >Introduccion a Ethereum Development (1/2) - **ESP** | 159 min.
 https://www.youtube.com/watch?v=i1IW9lK4mQw&t=5662s (2/2) 
 
-### [ Paginas ]
+### [ Paginas ] :newspaper:
 
 
 > https://es.wikipedia.org/wiki/Ethereum - **ESP**
@@ -120,7 +120,7 @@ https://www.youtube.com/watch?v=i1IW9lK4mQw&t=5662s (2/2)
 
 > https://www.ludu.co/course/ethereum - **ENG**
 
-### [ Informacion oficial de Ethereum ]
+### [ Informacion oficial de Ethereum ] :newspaper:
 
 > https://ethereum.org/en/whitepaper/ - **ENG**
 
@@ -149,7 +149,7 @@ https://www.youtube.com/watch?v=dnxfqmjNAtQ
 > Introducción a DeFi Development (2/2) - **ESP** | 120 min.
 https://www.youtube.com/watch?v=H8sbS9V6gVY
 
-### [ Paginas ]
+### [ Paginas ] :newspaper:
 
 > Primeros pasos en finanzas descentralizada - **ESP**
 https://mirror.xyz/0xcF5C9668234a1Ab8bAAaE52C4799875a5B993920/UyxkUJibw6CgHROXaMqq0PhFvJ2l1hxGjjfz6JDYZ2U
@@ -164,7 +164,7 @@ https://es.wikipedia.org/wiki/Finanzas_descentralizadas
 
 ------------
 
-### Libros
+### Libros :books:
 
 - Ethereum for Web Developers By Patricio Palladino
 
