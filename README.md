@@ -1,37 +1,117 @@
-# Primeros pasos en Ethereum y Solidity
+# Primeros pasos en Blockchain - Web3
 
-_Bueno este repositorio es más que nada para poder compartir el material que pude encontrar en estos poquitos meses de investigacion y aprendizaje, se va a ir actualizando a medida que encuentre más informacion_
+_La idea central de este repositorio es poder compartir el material que encontré en estos meses de investigacion y aprendizaje, se va a ir actualizando a medida que encuentre más informacion y/o quieran aportar material_
+
+**Alerta: **La mayoria del material sobre web3  es en INGLES, sin embargo voy a subir la mayor cantidad de material en español que encuentre, pero hay 10x material en ingles.
+- Cada material esta marcado con *ENG* si es en Ingles y* ESP* si es español.
+
 
 ## Comenzando 🚀
 
-_Ethereum_
-
-Bueno, antes de comenzar a desarrollar en Solidity, tendriamos que tener en claro varios conceptos y conocimientos, entre ellos que es una Blockchain, que es DeFi y que es Ethereum. Asi que les dejo informacion para que se puedan ir interiorizando con estos conceptos
+#### - Ecosistema Web 3.0 -
 
 
-* https://ethereum.org/es/what-is-ethereum/ <- La pagina oficial de Ethereum, de las mejores paginas, donde vas a encontrar informacion de todo tipo, desde como desarrollar en ethereum hasta la propia comunidad, como tambien tutoriales.
+Antes de comenzar a desarrollar en la Web3, tendriamos que tener en claro varios conceptos y conocimientos, entre ellos:
 
-* https://eth.build/ <- Excelente pagina para poder ir conociendo diferentes conceptos como Smart contracts, Hash, y como se compone una creacion en Ethereum (En Ingles)
+> - ¿Que es la Web3?
 
-* https://intro-ethereum.marto.lol/Intro-a-Ethereum-Development-23aac7d62c3f442c88e97094f0ea34a2 <- Informacion recoletada por Martin Triay, excelente para tener en cuenta, de lo mejor en español. 
+> - ¿Que es una Blockchain?
 
-* https://preethikasireddy.medium.com/how-does-ethereum-work-anyway-22d1df506369 <- ¿Como funciona Ethereum?
+> - ¿Que es DeFi?
 
-* https://www.investopedia.com/terms/b/blockchain.asp <- ¿Que es Blockchain?
+> - ¿Que es Ethereum?
 
-* https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13 <- Guia por Nader dabit desde lo inicial hasta lo avanzado
+Les dejo informacion para que se puedan ir interiorizando con estos conceptos:
+
+## Web3
+
+![Web3](https://blog.formaciongerencial.com/wp-content/uploads/2021/11/Web3.jpg "Web3")
+
+##### [Videos]
+
+> ¿Qué es la web3? | EL FUTURO DE INTERNET - **ESP** | 25 min.
+https://www.youtube.com/watch?v=-FZGPzn0KL4
+
+> Web3 EXPLICADO ¿Qué es Web 3.0? - **ESP** | 6 min.
+https://www.youtube.com/watch?v=PlOZLXGCESo
+
+> Is Web3 all Hype? Top 10 Web 3.0 Questions & Answers - **ENG** | 9 min.
+https://www.youtube.com/watch?v=wHTcrmhskto&t=440s
+
+##### [Paginas]
+
+- https://ethereum.org/en/developers/docs/web2-vs-web3/ - **ENG**
+
+- https://blogthinkbig.com/web3-que-es - **ESP**
 
 
 
-_Libros_
+[========]
+
+
+
+## Blockchain
+
+![](https://mecaluxes.cdnwm.com/blog/img/blockchain-informacion-agil-seguridad.1.12.jpg)](https://mecaluxes.cdnwm.com/blog/img/blockchain-informacion-agil-seguridad.1.12.jpg)
+
+##### [Videos]
+
+> HOY SÍ vas a entender QUÉ es el BLOCKCHAIN - (Bitcoin, Cryptos, NFTs y más)  **ESP**  | 23 min.
+https://www.youtube.com/watch?v=V9Kr2SujqHw&t=653s .
+
+
+
+##### [Paginas]
+
+> ¿Que es Blockchain? - **ESP**
+https://www.investopedia.com/terms/b/blockchain.asp
+
+
+
+
+
+
+DeFi
+
+Ethereum
+
+2. * https://ethereum.org/es/what-is-ethereum/
+
+La pagina oficial de Ethereum, de las mejores paginas, donde vas a encontrar informacion de todo tipo, desde como desarrollar en ethereum hasta la propia comunidad, como tambien tutoriales.
+
+4. * https://eth.build/
+Excelente pagina para poder ir conociendo diferentes conceptos como Smart contracts, Hash, y como se compone una creacion en Ethereum (En Ingles)
+
+6. * https://intro-ethereum.marto.lol/Intro-a-Ethereum-Development-23aac7d62c3f442c88e97094f0ea34a2
+Informacion recoletada por Martin Triay, excelente para tener en cuenta, de lo mejor en español.
+
+8. * https://preethikasireddy.medium.com/how-does-ethereum-work-anyway-22d1df506369
+¿Como funciona Ethereum?
+
+
+12. * https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13 
+
+Guia por Nader dabit desde lo inicial hasta lo avanzado
+
+[========]
+
+------------
+[========]
+
+
+
+
+
+
+
+### Libros
 
 * Ethereum for Web Developers de Santiago Palladino
 * Introducing Ethereum and Solidity
 * Beginning Ethereum Smart Contracts Programming
 
-_Youtube_
+### Youtube
 
-https://www.youtube.com/watch?v=V9Kr2SujqHw&t=653s <- Blockchain
 
 https://www.youtube.com/watch?v=YpUG1VFEiZE <- Ethereum
 
@@ -59,6 +139,7 @@ _Documentacion que te va a aportar muchisimo en este camino a ser un Solidity De
 
 
 
+
 _Youtube_
 https://www.youtube.com/watch?v=ipwxYa-F1uY <-
 
@@ -78,10 +159,8 @@ _Un poco diferente al desarrollo, tenemos seguridad en solidity, como es la audi
 ## Expresiones de Gratitud 🎁
 
 * Comenta a otros sobre este proyecto 📢
-* Invita una cerveza 🍺 o un café ☕ a alguien del equipo. 
+* Invita un café ☕ a alguien del equipo. 
 * Da las gracias públicamente 🤓.
-* etc.
-
 
 ---
 ⌨️ con ❤️
