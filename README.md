@@ -30,14 +30,14 @@ Antes de comenzar a desarrollar en la Web3, tendriamos que tener en claro varios
 
 ### [ Videos ]
 
-> ¿Qué es la web3? | EL FUTURO DE INTERNET - **ESP** | 25 min.
-https://www.youtube.com/watch?v=-FZGPzn0KL4
+> [¿Qué es la web3? | EL FUTURO DE INTERNET](https://www.youtube.com/watch?v=-FZGPzn0KL4 "¿Qué es la web3? | EL FUTURO DE INTERNET") - **ESP** | 25 min.
 
-> Web3 EXPLICADO ¿Qué es Web 3.0? - **ESP** | 6 min.
-https://www.youtube.com/watch?v=PlOZLXGCESo
 
-> Is Web3 all Hype? Top 10 Web 3.0 Q&A - **ENG** | 9 min.
-https://www.youtube.com/watch?v=wHTcrmhskto&t=440s
+> [Web3 EXPLICADO ¿Qué es Web 3.0? ](https://www.youtube.com/watch?v=PlOZLXGCESo "Web3 EXPLICADO ¿Qué es Web 3.0? ")- **ESP** | 6 min.
+
+
+>[ Is Web3 all Hype? Top 10 Web 3.0 Q&A ](https://www.youtube.com/watch?v=wHTcrmhskto&t=440s " Is Web3 all Hype? Top 10 Web 3.0 Q&A ")- **ENG** | 9 min.
+
 
 ### [ Paginas ] :newspaper:
 
@@ -61,20 +61,17 @@ https://www.youtube.com/watch?v=wHTcrmhskto&t=440s
 
 ### [ Videos ]
 
-> HOY SÍ vas a entender QUÉ es el BLOCKCHAIN -  **ESP**  | 23 min.
-https://www.youtube.com/watch?v=V9Kr2SujqHw&t=653s
+> [HOY SÍ vas a entender QUÉ es el BLOCKCHAIN](https://www.youtube.com/watch?v=V9Kr2SujqHw&t=653s "HOY SÍ vas a entender QUÉ es el BLOCKCHAIN") -  **ESP**  | 23 min.
 
-> Qué es BLOCKCHAIN y Cómo funciona  **ESP** | 9 min.
-https://www.youtube.com/watch?v=fRnB5_j1qOE
+> [Qué es BLOCKCHAIN y Cómo funciona](https://www.youtube.com/watch?v=fRnB5_j1qOE "Qué es BLOCKCHAIN y Cómo funciona")  **ESP** | 9 min.
 
 
 ### [ Paginas ] :newspaper:
 
-> ¿Que es Blockchain? - **ESP**
-https://www.investopedia.com/terms/b/blockchain.asp
+> [¿Que es Blockchain](https://www.investopedia.com/terms/b/blockchain.asp "¿Que es Blockchain")? - **ESP**
 
-> Qué es blockchain: la explicación definitiva - **ESP**
-https://www.xataka.com/especiales/que-es-blockchain-la-explicacion-definitiva-para-la-tecnologia-mas-de-moda
+> [Qué es blockchain: la explicación definitiva ](https://www.xataka.com/especiales/que-es-blockchain-la-explicacion-definitiva-para-la-tecnologia-mas-de-moda "Qué es blockchain: la explicación definitiva ")- **ESP**
+
 
 
 ------------
@@ -87,17 +84,13 @@ https://www.xataka.com/especiales/que-es-blockchain-la-explicacion-definitiva-pa
 
 ### [ Videos ]
 
-> ETHEREUM 2020!! QUE ES -  **ESP** | 9 min.
-https://www.youtube.com/watch?v=YpUG1VFEiZE
+> [ETHEREUM 2020!! QUE ES](https://www.youtube.com/watch?v=YpUG1VFEiZE "ETHEREUM 2020!! QUE ES") -  **ESP** | 9 min.
 
-> Qué es ETHEREUM: EXPLICACIÓN sencilla  **ESP** | 12 min.
-https://www.youtube.com/watch?v=36t2S6NeUgU
+> [Qué es ETHEREUM: EXPLICACIÓN sencilla](https://www.youtube.com/watch?v=36t2S6NeUgU "Qué es ETHEREUM: EXPLICACIÓN sencilla")  **ESP** | 12 min.
 
->Introduccion a Ethereum Development (1/2) - **ESP** | 120 min.
-https://www.youtube.com/watch?v=zoJb3G8TQcE&t=4641s
+>[Introduccion a Ethereum Development (1/2)](https://www.youtube.com/watch?v=zoJb3G8TQcE&t=4641s "Introduccion a Ethereum Development (1/2)") - **ESP** | 120 min.
 
->Introduccion a Ethereum Development (1/2) - **ESP** | 159 min.
-https://www.youtube.com/watch?v=i1IW9lK4mQw&t=5662s (2/2) 
+>[Introduccion a Ethereum Development (2/2)](https://www.youtube.com/watch?v=i1IW9lK4mQw&t=5662s "Introduccion a Ethereum Development (2/2)") - **ESP** | 159 min.
 
 ### [ Paginas ] :newspaper:
 
@@ -140,26 +133,19 @@ https://www.youtube.com/watch?v=i1IW9lK4mQw&t=5662s (2/2)
 
 ### [ Videos ]
 
-> Todo lo que quisiste saber de web3 - **ESP** | 120 min.
-https://www.youtube.com/watch?v=k5S4CVVt9ic&t=120s
+> [Todo lo que quisiste saber de web3](https://www.youtube.com/watch?v=k5S4CVVt9ic&t=120s "Todo lo que quisiste saber de web3") - **ESP** | 120 min.
 
-> Introducción a DeFi Development (1/2) - **ESP** | 180 min.
-https://www.youtube.com/watch?v=dnxfqmjNAtQ
+> [Introducción a DeFi Development (1/2)](https://www.youtube.com/watch?v=dnxfqmjNAtQ "Introducción a DeFi Development (1/2)") - **ESP** | 180 min.
 
-> Introducción a DeFi Development (2/2) - **ESP** | 120 min.
-https://www.youtube.com/watch?v=H8sbS9V6gVY
+> [Introducción a DeFi Development (2/2) ](https://www.youtube.com/watch?v=H8sbS9V6gVY "Introducción a DeFi Development (2/2) ")- **ESP** | 120 min.
 
 ### [ Paginas ] :newspaper:
 
-> Primeros pasos en finanzas descentralizada - **ESP**
-https://mirror.xyz/0xcF5C9668234a1Ab8bAAaE52C4799875a5B993920/UyxkUJibw6CgHROXaMqq0PhFvJ2l1hxGjjfz6JDYZ2U
+> [Primeros pasos en finanzas descentralizada](https://mirror.xyz/0xcF5C9668234a1Ab8bAAaE52C4799875a5B993920/UyxkUJibw6CgHROXaMqq0PhFvJ2l1hxGjjfz6JDYZ2U "Primeros pasos en finanzas descentralizada") - **ESP**
 
-> ¿Qué es DeFi o Finanzas Descentralizadas? - **ESP**
-https://academy.bit2me.com/que-es-defi-o-finanzas-descentralizadas/
+> [¿Qué es DeFi o Finanzas Descentralizadas? ](https://academy.bit2me.com/que-es-defi-o-finanzas-descentralizadas/ "¿Qué es DeFi o Finanzas Descentralizadas? ")- **ESP**
 
-
-> DeFi ¿Que es? - **ESP**
-https://es.wikipedia.org/wiki/Finanzas_descentralizadas
+> [DeFi ¿Que es?](https://es.wikipedia.org/wiki/Finanzas_descentralizadas "DeFi ¿Que es?") - **ESP**
 
 
 ------------
@@ -184,35 +170,26 @@ https://es.wikipedia.org/wiki/Finanzas_descentralizadas
 
 ## Canales de Youtube
 
-> Austin Griffith - **ENG**
-https://www.youtube.com/channel/UC_HI2i2peo1A-STdG22GFsA/videos
+> [Austin Griffith](https://www.youtube.com/channel/UC_HI2i2peo1A-STdG22GFsA/videos "Austin Griffith") - **ENG**
 
->Whiteboard Crypto - **ENG**
-https://www.youtube.com/c/WhiteboardCrypto/videos
+>[Whiteboard Crypto](https://www.youtube.com/c/WhiteboardCrypto/videos "Whiteboard Crypto") - **ENG**
 
-> ETH-Global - **ENG**
-https://www.youtube.com/channel/UCfF9ZO8Ug4xk_AJd4aeT5HA
+> [ETH-Global](https://www.youtube.com/channel/UCfF9ZO8Ug4xk_AJd4aeT5HA "ETH-Global") - **ENG**
 
->Nonstop Cryptocurrency - **ENG**
-https://www.youtube.com/c/NonstopCryptocurrency/videos
+>[Nonstop Cryptocurrency](https://www.youtube.com/c/NonstopCryptocurrency/videos "Nonstop Cryptocurrency") - **ENG**
 
-> Patrick Collins - **ENG**
-https://www.youtube.com/c/PatrickCollins/videos
+> [Patrick Collins ](https://www.youtube.com/c/PatrickCollins/videos "Patrick Collins ")- **ENG**
 
-> Crypto Español - **ESP**
-https://www.youtube.com/channel/UC_TmOIPWu-hCVuE2fA3M8Tg/videos
+> [Crypto Español](https://www.youtube.com/channel/UC_TmOIPWu-hCVuE2fA3M8Tg/videos "Crypto Español") - **ESP**
 
-> Alberto Lasa - **ESP**
-https://www.youtube.com/c/AlbertoLasa/videos
+> [Alberto Lasa](https://www.youtube.com/c/AlbertoLasa/videos "Alberto Lasa") - **ESP**
 
-> Crypto Sheinix - **ESP**
-https://www.youtube.com/channel/UC423qnRwiJf4fLKAQ6Tlofg
+> [Crypto Sheinix](https://www.youtube.com/channel/UC423qnRwiJf4fLKAQ6Tlofg "Crypto Sheinix") - **ESP**
 
-> BlockGeeks - **ENG**
-https://www.youtube.com/c/BlockGeeks/videos
+> [BlockGeeks](https://www.youtube.com/c/BlockGeeks/videos "BlockGeeks") - **ENG**
 
-> Secureum - **ENG**
-https://www.youtube.com/c/SecureumVideos/videos
+> [Secureum](https://www.youtube.com/c/SecureumVideos/videos "Secureum") - **ENG**
+
 
 -----------------------------------------------
 
